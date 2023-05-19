@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIMLOPS/mlflow/mlruns/0/5adbc1101a73461d895d0a365b83cc3a/artifacts
+end_time: 1684489471205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5adbc1101a73461d895d0a365b83cc3a
+run_name: omniscient-ant-822
+run_uuid: 5adbc1101a73461d895d0a365b83cc3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684489438636
+status: 3
+tags: []
+user_id: test

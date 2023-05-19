@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIMLOPS/mlflow/mlruns/0/08f46990d42e4a679e48069914fbdf00/artifacts
+end_time: 1684489232531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08f46990d42e4a679e48069914fbdf00
+run_name: masked-flea-257
+run_uuid: 08f46990d42e4a679e48069914fbdf00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684489198975
+status: 3
+tags: []
+user_id: test
